@@ -1,0 +1,1318 @@
+.container {
+    width: 1072px;
+    height: 400px;
+    position: absolute;
+    top: 181px;
+    left: 184px;
+}
+
+.rectangle {
+    width: 958px;
+    height: 400px;
+    background-color: #BD0707;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.title {
+    width: 357px;
+    height: 65px;
+    color: #FFFFFF;
+    line-height: 65px;
+    font-family: 'Freight';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    position: absolute;
+    left: 57px;
+    top: 59px;
+}
+
+.preview {
+    width: 505px;
+    height: 33px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 63px;
+    top: 140px;
+}
+
+.content {
+    width: 469px;
+    height: 125px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 63px;
+    top: 200px;
+}
+
+.sash {
+    width: 451px;
+    height: 324px;
+    border-radius: 10px 10px 10px 10px;
+    position: absolute;
+    top: 28px;
+    left: 621px;
+}
+
+.group {
+    width: 303.75px;
+    height: 293.22px;
+}
+
+.bored {
+    width: 282.32px;
+    height: 313.08px;
+}
+
+.shana {
+    width: 303.75px;
+    height: 293.22px;
+}
+
+.shaku {
+    width: 303.75px;
+    height: 293.22px;
+}
+
+.headerContainer {
+    width: 1240px;
+    height: 80px;
+    position: absolute;
+    left: 100px;
+    top: 45px;
+}
+
+.login {
+    width: 100px;
+    height: 30px;
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+}
+
+.loginText {
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+
+.register {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #BD0707;
+}
+
+.registerText {
+    text-align: center;
+    font-style: normal;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 4px;
+}
+
+.loginPage {
+    width: 416px;
+    height: 391px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+
+.loginPageText {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 49px;
+    color: #BD0707;
+}
+
+.emailLogin {
+    width: 350px;
+    height: 50px;
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    background-color: rgba(224, 200, 200, 0.25);
+}
+
+.passwordLogin {
+    width: 350px;
+    height: 50px;
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    background-color: rgba(224, 200, 200, 0.25);
+}
+
+.buttonLogin {
+    width: 350px;
+    height: 50px;
+    background-color: #BD0707;
+    border-radius: 5px;
+}
+
+.buttonLoginText {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.accAsk {
+    width: 281px;
+    height: 25px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.registerPage {
+    width: 416px;
+    height: 479px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+
+.registerPageText {
+    width: 143px;
+    height: 49px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    color: #BD0707;
+}
+
+.emailRegister {
+    width: 350px;
+    height: 50px;
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    background-color: rgba(224, 200, 200, 0.25);
+}
+
+.passwordRegister {
+    width: 350px;
+    height: 50px;
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    background-color: rgba(224, 200, 200, 0.25);
+}
+
+.fullnameRegister {
+    width: 350px;
+    height: 50px;
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    background-color: rgba(224, 200, 200, 0.25);
+}
+
+.buttonRegister {
+    width: 350px;
+    height: 50px;
+    background-color: #BD0707;
+    border-radius: 5px;
+}
+
+.buttonRegisterText {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.loginAsk {
+    width: 293px;
+    height: 25px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.lets {
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    color: #BD0707;
+    position: absolute;
+    top: 619px;
+    left: 196px;
+}
+
+.logo {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+}
+
+.card1 {
+    position: absolute;
+    width: 241px;
+    height: 392px;
+    top: 706px;
+    left: 196px;
+    background-color: #F6DADA;
+    border-radius: 5px;
+}
+
+.cardTitle1 {
+    position: absolute;
+    left: 16px;
+    top: 326px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #BD0707;
+}
+
+.cardPrice1 {
+    position: absolute;
+    left: 16px;
+    top: 357px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #974A4A;
+}
+
+.cardLogo1 {
+    position: absolute;
+    width: 79px;
+    height: 80px;
+    left: 81px;
+    top: 107px;
+}
+
+.card2 {
+    position: absolute;
+    width: 241px;
+    height: 392px;
+    top: 706px;
+    left: 472px;
+    background-color: #F6DADA;
+    border-radius: 5px;
+}
+
+.cardTitle2 {
+    position: absolute;
+    left: 16px;
+    top: 326px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #BD0707;
+}
+
+.cardPrice2 {
+    position: absolute;
+    left: 16px;
+    top: 357px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #974A4A;
+}
+
+.cardLogo2 {
+    position: absolute;
+    width: 79px;
+    height: 80px;
+    left: 84px;
+    top: 106px;
+}
+
+.card3 {
+    position: absolute;
+    width: 241px;
+    height: 392px;
+    top: 706px;
+    left: 748px;
+    background-color: #F6DADA;
+    border-radius: 5px;
+}
+
+.cardTitle3 {
+    position: absolute;
+    left: 16px;
+    top: 326px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #BD0707;
+}
+
+.cardPrice3 {
+    position: absolute;
+    left: 16px;
+    top: 357px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #974A4A;
+}
+
+.cardLogo3 {
+    position: absolute;
+    width: 79px;
+    height: 80px;
+    left: 85px;
+    top: 107px;
+}
+
+.card4 {
+    position: absolute;
+    width: 241px;
+    height: 392px;
+    top: 706px;
+    left: 1024px;
+    background-color: #F6DADA;
+    border-radius: 5px;
+}
+
+.cardTitle4 {
+    position: absolute;
+    left: 16px;
+    top: 326px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #BD0707;
+}
+
+.cardPrice4 {
+    position: absolute;
+    left: 16px;
+    top: 357px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #974A4A;
+}
+
+.cardLogo4 {
+    position: absolute;
+    width: 79px;
+    height: 80px;
+    left: 94px;
+    top: 153px;
+}
+
+.chart {
+    position: absolute;
+    right: 126px;
+    width: 40px;
+    top: 18px;
+}
+
+.profile {
+    font-size: 24px;
+    font-family: "Avenir";
+    font-weight: 900;
+    color: #BD0707;
+    position: absolute;
+    left: 195px;
+    top: 157px;
+}
+
+.transaction {
+    font-size: 24px;
+    font-family: "Avenir";
+    font-weight: 900;
+    color: #BD0707;
+    position: absolute;
+    left: 720px;
+    top: 157px;
+}
+
+.profilePicture {
+    position: absolute;
+    width: 180px;
+    height: 222px;
+    left: 196px;
+    top: 216px;
+    border-radius: 3px;
+}
+
+.nameContainer {
+    position: absolute;
+    left: 400px;
+    top: 215px;
+}
+
+.emailContainer {
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+
+.detailTitle {
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 18px;
+    color: #613D2B;
+    line-height: 5px;
+    margin-top: 10px;
+}
+
+.detailTransaction {
+    width: 524px;
+    height: 242px;
+    left: 720px;
+    top: 216px;
+    border-radius: 10px;
+    position: absolute;
+    background-color: #F7DADA;
+}
+
+.pictTransaction1 {
+    width: 80px;
+    height: 97px;
+    top: 14px;
+    left: 28px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.pictTransaction2 {
+    width: 80px;
+    height: 97px;
+    top: 129px;
+    left: 28px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.logoTransaction1 {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 73px;
+    left: 58px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+}
+
+.logoTransaction2 {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 188px;
+    left: 58px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+}
+
+.titleTransaction1 {
+    position: absolute;
+    left: 121px;
+    top: 19px;
+    color: #BD0707;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 14px;
+}
+
+.dateTransaction1 {
+    position: absolute;
+    left: 121px;
+    top: 41px;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 9px;
+    color: #BD0707;
+}
+
+.topping1 {
+    position: absolute;
+    left: 121px;
+    top: 67px;
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 10px;
+    color: #974A4A;
+}
+
+.toppingValue1 {
+    position: absolute;
+    left: 159px;
+    top: 67px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 10px;
+    color: #BD0707;
+}
+
+.price1 {
+    position: absolute;
+    top: 88px;
+    left: 121px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 10px;
+    color: #974A4A;
+}
+
+.titleTransaction2 {
+    position: absolute;
+    left: 121px;
+    top: 134px;
+    color: #BD0707;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 14px;
+}
+
+.dateTransaction2 {
+    position: absolute;
+    left: 121px;
+    top: 156px;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 9px;
+    color: #BD0707;
+}
+
+.topping2 {
+    position: absolute;
+    left: 121px;
+    top: 182px;
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 10px;
+    color: #974A4A;
+}
+
+.toppingValue2 {
+    position: absolute;
+    left: 159px;
+    top: 182px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 10px;
+    color: #BD0707;
+}
+
+.price2 {
+    position: absolute;
+    top: 203px;
+    left: 121px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 10px;
+    color: #974A4A;
+}
+
+.detailTransactionLogo {
+    position: absolute;
+    width: 48.04px;
+    height: 47.75px;
+    top: 14.03px;
+    left: 431.04px;
+}
+
+.qr {
+    position: absolute;
+    left: 416px;
+    top: 88px;
+    width: 74px;
+    height: 74px;
+}
+
+.approve {
+    position: absolute;
+    width: 112px;
+    height: 19px;
+    top: 172px;
+    left: 396px;
+    border-radius: 2px;
+    background:linear-gradient(180deg, #FF9900 0%, #FF9900 100%);
+    opacity: 30%;
+}
+
+.approveText {
+    position: absolute;
+    left: 20px;
+    top: 3px;
+    font-family: 'Avenir';
+    font-weight: 500;
+    font-size: 10px;
+    color: black;
+}
+
+.sub {
+    position: absolute;
+    left: 407px;
+    top: 203px;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 10px;
+    color: #974A4A;
+}
+
+.orderTitle {
+    position: absolute;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 24px;
+    color: #BD0707;
+    left: 195px;
+    top: 157px;
+}
+
+.orderReview {
+    position: absolute;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 18px;
+    color: #BD0707;
+    padding-bottom: 9px;
+}
+
+.orderContainer {
+    position: absolute;
+    width: 660px;
+    height: 270px;
+    left: 195px;
+    top: 216px;
+}
+
+.orderTotal {
+    position: absolute;
+    left: 939px;
+    top: 250px;
+    width: 350px;
+    height: 250px;
+}
+
+.line1 {
+    position: absolute;
+    width: 660px;
+    border: 1px solid #974A4A;
+    top: 34px;
+}
+
+.pictOrder1 {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    position: absolute;
+    top: 51px;
+}
+
+.menuTitle1 {
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+    left: 93px;
+    top: 64px;
+}
+
+.orderTopping1 {
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 14px;
+    color: #974A4A;
+    position: absolute;
+    left: 93px;
+    top: 94px;
+}
+
+.orderToppingValue1 {
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+    left: 146px;
+    top: 96px;
+}
+
+.orderPrice1 {
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+    right: 8px;
+    top: 64px;
+}
+
+.deleteOrder1 {
+    position: absolute;
+    right: 8px;
+    top: 100px;
+    width: 16.67px;
+    height: 20px;
+}
+
+.pictOrder2 {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    position: absolute;
+    top: 160px;
+}
+
+.menuTitle2 {
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+    left: 93px;
+    top: 173px;
+}
+
+.orderTopping2 {
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 14px;
+    color: #974A4A;
+    position: absolute;
+    left: 93px;
+    top: 205px;
+}
+
+.orderToppingValue2 {
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+    left: 146px;
+    top: 205px;
+}
+
+.orderPrice2 {
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+    right: 8px;
+    top: 173px;
+}
+
+.deleteOrder2 {
+    position: absolute;
+    right: 8px;
+    top: 209px;
+    width: 16.67px;
+    height: 20px;
+}
+
+.line2 {
+    position: absolute;
+    width: 660px;
+    border: 1px solid #974A4A;
+    bottom: 0px;
+}
+
+.subTotal {
+    position: absolute;
+    left: 0px;
+    top: 14px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+.subTotalValue {
+    position: absolute;
+    right: 11px;
+    top: 14px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+.qty {
+    position: absolute;
+    left: 0px;
+    top: 45px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+.qtyValue {
+    position: absolute;
+    right: 11px;
+    top: 45px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+.line3 {
+    position: absolute;
+    width: 350px;
+    border: 1px solid #974A4A;
+    top: 0px;
+}
+
+.line4 {
+    position: absolute;
+    width: 350px;
+    border: 1px solid #974A4A;
+    top: 81px;
+}
+
+.total {
+    position: absolute;
+    left: 0px;
+    top: 95px;
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+.totalValue {
+    position: absolute;
+    right: 11px;
+    top: 95px;
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 14px;
+    color: #BD0707;
+}
+
+.payButtonContainer {
+    position: absolute;
+    bottom: 0px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.payButton {
+    position: absolute;
+    bottom: 0px;
+    width: 350px;
+    height: 40px;
+    background-color: #BD0707;
+    border-radius: 5px;
+    border-color: #BD0707;
+}
+
+.payButtonText {
+    position: absolute;
+    left: 160px;
+    top: 9px;
+    font-family: 'Product Sans';
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.product {
+    font-family: 'Avenir';
+    font-weight: 800px;
+    font-size: 36px;
+    color: #BD0707;
+    position: absolute;
+    left: 87px;
+    top: 230px;
+}
+
+.productName {
+    position: absolute;
+    width: 664px;
+    height: 50px;
+    top: 324px;
+    left: 87px;
+    background: rgba(224, 200, 200, 0.25);
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+}
+
+.productPrice {
+    position: absolute;
+    width: 664px;
+    height: 50px;
+    top: 409px;
+    left: 87px;
+    background: rgba(224, 200, 200, 0.25);
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+}
+
+.productPhotoContainer {
+    position: absolute;
+    width: 664px;
+    height: 50px;
+    top: 494px;
+    left: 87px;
+}
+
+.productPhotoText {
+    width: 664px;
+    height: 50px;
+    background: rgba(224, 200, 200, 0.25);
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+}
+
+.productPhotoIcon {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.productAdd {
+    position: absolute;
+    width: 576px;
+    height: 40px;
+    top: 600px;
+    left: 123px;
+    background: #BD0707;
+    border-radius: 5px;
+}
+
+.productAddText {
+    text-align: center;
+    font-family: 'Product Sans';
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.productContainer {
+    width: 700px;
+    height: 400px;
+}
+
+.productPhotoIllustration {
+    width: 436px;
+    height: 555px;
+    top: 230px;
+    left: 842px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.productLogo {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 580px;
+    left: 1010px;
+}
+
+.orderLogo1 {
+    height: 19px;
+    width: 19px;
+    position: absolute;
+    top: 98px;
+    left: 30px;
+}
+
+.orderLogo2 {
+    height: 19px;
+    width: 19px;
+    position: absolute;
+    top: 207px;
+    left: 30px;
+}
+
+.detailProductPict {
+    position: absolute;
+    height: 555px;
+    width: 436px;
+    left: 195px;
+    top: 172px;
+    border-radius: 10px;
+}
+
+.detailProductContainer {
+    position: absolute;
+    height: 605px;
+    width: 576px;
+    left: 685px;
+    top: 164px;
+}
+
+.detailProductTitle {
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 48px;
+    color: #BD0707;
+}
+
+.detailProductPrice {
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 24px;
+    top: 82px;
+    color: #BD0707;
+}
+
+.detailProductToping {
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 24px;
+    top: 189px;
+    color: #974A4A;
+}
+
+.detailTopping1 {
+    position: absolute;
+    left: 22px;
+    top: 244px;
+}
+
+.detailTopping2 {
+    position: absolute;
+    left: 170px;
+    top: 244px;
+}
+
+.detailTopping3 {
+    position: absolute;
+    right: 182px;
+    top: 244px;
+}
+
+.detailTopping4 {
+    position: absolute;
+    right: 25px;
+    top: 244px;
+}
+
+
+.detailTopping5 {
+    position: absolute;
+    left: 22px;
+    top: 396px;
+}
+
+.detailTopping6 {
+    position: absolute;
+    left: 170px;
+    top: 396px;
+}
+
+.detailTopping7 {
+    position: absolute;
+    right: 182px;
+    top: 396px;
+}
+
+.detailTopping8 {
+    position: absolute;
+    right: 25px;
+    top: 396px;
+}
+
+.detailToppingTitle1 {
+    top: 342px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle2 {
+    top: 342px;
+    left: 182px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle3 {
+    top: 342px;
+    right: 171px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle4 {
+    top: 342px;
+    right: 17px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle5 {
+    top: 494px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle6 {
+    top: 494px;
+    left: 149px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle7 {
+    top: 494px;
+    right: 171px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailToppingTitle8 {
+    top: 494px;
+    right: 17px;
+    font-family: 'Avenir';  
+    font-weight: 400;
+    font-size: 14px;
+    color: #BD0707;
+    position: absolute;
+}
+
+.detailTotal {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 24px;
+    color: #974A4A;
+}
+
+.detailTotalValue {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    font-family: 'Avenir';
+    font-weight: 900;
+    font-size: 24px;
+    color: #974A4A;
+}
+
+.addCartContainer {
+    position: absolute;
+    left: 685px;
+    top: 831px;
+}
+
+.addCartButton {
+    width: 576px;
+    height: 40px;
+    background-color: #BD0707;
+    border-radius: 5px;
+}
+
+.addCartButtonText {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.logoDetail {
+    position: absolute;
+    width: 100px;
+    height: 101px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    top: 520px;
+    left: 363px;
+}
+
+.check1 {
+    position: absolute;
+    left: 80px;
+    top: 244px;
+}
+
+.check2 {
+    position: absolute;
+    left: 230px;
+    top: 244px;
+}
+
+.check3 {
+    position: absolute;
+    left: 380px;
+    top: 244px;
+}
+
+.check4 {
+    position: absolute;
+    left: 535px;
+    top: 244px;
+}
+
+.check5 {
+    position: absolute;
+    left: 80px;
+    top: 400px;
+}
+
+.check6 {
+    position: absolute;
+    left: 230px;
+    top: 400px;
+}
+
+.check7 {
+    position: absolute;
+    left: 380px;
+    top: 400px;
+}
+
+.check8 {
+    position: absolute;
+    left: 535px;
+    top: 395px;
+}

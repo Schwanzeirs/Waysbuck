@@ -1,0 +1,24 @@
+.table {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.titleProduct{
+    color: #BD0707;
+    margin-left: 6rem;
+}
+
+.tableIncomeTransaction {
+    width: 70%;
+    margin-left: 6rem;
+    border: 1px solid #828282;
+    border-radius: 1px 0px 0px 0px;
+}
+
+.thead {
+    background-color: #E5E5E5;
+}
+
+.income {
+    color: #061E99;
+}
